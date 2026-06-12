@@ -14,7 +14,7 @@ function App() {
           <h1>Yahiya Maïga</h1>
           <p className="cv-titre">Étudiant en Licence Informatique</p>
           <p className="cv-contact">
-            Bamako, Mali · maigayahiya@exemple.com · +223 63 33 84 84
+            Bamako, Mali · maigayahiya236@gmail.com · +223 63 33 84 84
           </p>
         </div>
       </header>
@@ -39,6 +39,7 @@ function App() {
           <li>React</li>
           <li>Git</li>
           <li>GitHub</li>
+          <li>Réseaux</li>
         </ul>
       </section>
 
@@ -47,17 +48,17 @@ function App() {
         <h2>Formation</h2>
         <div className="cv-item">
           <div className="cv-item-tete">
-            <span className="cv-item-titre">Licence en Informatique</span>
+            <span className="cv-item-titre">Licence en Informatique et Réseau Télécom</span>
             <span className="cv-item-date">2023 — 2026</span>
           </div>
           <p className="cv-item-lieu">Université Ecossup, Bamako</p>
         </div>
         <div className="cv-item">
           <div className="cv-item-tete">
-            <span className="cv-item-titre">Baccalauréat scientifique</span>
-            <span className="cv-item-date">2023</span>
+            <span className="cv-item-titre">Baccalauréat scientifique (Génie Civil)</span>
+            <span className="cv-item-date">2020</span>
           </div>
-          <p className="cv-item-lieu">Lycée de Bamako</p>
+          <p className="cv-item-lieu">Lycée Technique de Bamako</p>
         </div>
       </section>
 
