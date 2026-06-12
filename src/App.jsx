@@ -9,12 +9,12 @@ function App() {
     <div className="cv">
       {/* En-tête : identité */}
       <header className="cv-header">
-        <div className="cv-avatar">AD</div>
+        <div className="cv-avatar">YM</div>
         <div className="cv-identite">
-          <h1>Aïssata Diarra</h1>
-          <p className="cv-titre">Étudiante en Licence Informatique</p>
+          <h1>Yahiya Maïga</h1>
+          <p className="cv-titre">Étudiant en Licence Informatique</p>
           <p className="cv-contact">
-            Bamako, Mali · aissata.diarra@exemple.com · +223 00 00 00 00
+            Bamako, Mali · maigayahiya@exemple.com · +223 63 33 84 84
           </p>
         </div>
       </header>
@@ -23,8 +23,8 @@ function App() {
       <section className="cv-section">
         <h2>Profil</h2>
         <p>
-          Passionnée de développement web, je conçois des applications simples,
-          utiles et accessibles. Curieuse et rigoureuse, j'aime apprendre de
+          Passionné de développement web, je conçois des applications simples,
+          utiles et accessibles. Curieux et rigoureus, j'aime apprendre de
           nouvelles technologies et mener mes projets jusqu'à la mise en ligne.
         </p>
       </section>
